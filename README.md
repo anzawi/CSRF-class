@@ -37,7 +37,7 @@ else
 }
 
 // you can send token value to this method
-if($token->checkToken($_POST['token]))
+if($token->checkToken($_POST['token']))
 {
     // process last action
 }
