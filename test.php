@@ -34,6 +34,8 @@ if (isset($_GET["ok"]) && isset($_POST)) {
     */
 
     $token->validOrDie(); // any error ??? then kill the page
+
+    // process last action
 }
 
 
